@@ -165,7 +165,7 @@ A classification model that predicts loan approval status based on applicant dat
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/creativework928-max/HexSoftwres_Project-01_Task-01
+git clone https://github.com/creativework928-max/HexSoftwres_Project-01
 ```
 
 2. Navigate to the project folder:
